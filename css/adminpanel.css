@@ -1,0 +1,12 @@
+
+header{
+    background-color: red;
+}
+.table-div{
+    margin-left: 10%;
+    margin-top: 50px;
+}
+td{
+    font-size: 32px;
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color: #FFC42E;
+}
+.ul-head{
+    display: flex;
+    gap: 50px;
+}
+.lili{
+    list-style: none;
+}
+.a-li{
+    text-decoration: none;
+    color: white;
+}
+.area-account{
+    background-color: #FAF8F8;
+    width: 608px;
+    height: 892px;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+/* .img-account{
+    margin: 0 auto;
+} */
+.statist{
+    margin-top:30px ;
+    margin-left: 30%;
+}
+.fio{
+    font-size: 50px;
+    margin-left: 30%;
+}
+.admin{
+    background-color: red;
+    width:417px ;
+    height: 114px;
+    border-radius:30px ;
+    color: #FAF8F8;
+    font-size: 32px;
+    margin-left: 90px;
+}
+.a-button{
+    text-decoration: none;
+    color: white;
+}
